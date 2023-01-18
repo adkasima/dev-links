@@ -10,6 +10,5 @@ function toggleMode() {
   } else {
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute("alt", "Foto de Adriel.")
-
   }
 }
